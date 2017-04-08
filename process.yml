@@ -1,0 +1,3 @@
+apps:
+  - script: cron.js
+    name: ghostlike
