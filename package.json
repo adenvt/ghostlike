@@ -5,8 +5,12 @@
   "main": "index.js",
   "author": "Ade Novid",
   "license": "MIT",
+  "scripts": {
+    "install": "cp -n config.example.json config.json"
+  },
   "dependencies": {
     "cron": "^1.2.1",
+    "jsonfile": "^4.0.0",
     "nightmare": "^2.10.0"
   }
 }
