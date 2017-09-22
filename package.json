@@ -1,6 +1,6 @@
 {
   "name": "ghostlike",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Bot Like Facebook using PhantomJs",
   "main": "index.js",
   "author": "Ade Novid",
